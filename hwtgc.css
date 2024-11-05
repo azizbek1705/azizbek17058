@@ -1,0 +1,469 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*home*/
+
+.aaa {
+    background-image: url(img/infinite-loop-01.jpg);
+    height: 641px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.container {
+    max-width: 1100px;
+    margin: auto;
+}
+
+.bbb {
+    color: white;
+    float: left;
+    padding: 20px;
+    font-size: 22px;
+}
+
+.navbar ul {
+    list-style: none;
+}
+
+.navbar ul li {
+    float: right;
+    padding: 25px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.ccc {
+    font-size: 50px;
+    text-align: center;
+    padding-top: 200px;
+    color: white;
+}
+
+.ddd {
+    text-align: center;
+    color: white;
+    font-size: 17px;
+}
+
+.eee {
+    text-align: center;
+    color: white;
+    font-size: 19px;
+    padding-top: 10px;
+}
+
+.fff i {
+    color: white;
+    background-color: rgb(87, 87, 219);
+    height: 40px;
+    width: 85px;
+    padding-top: 9px;
+    margin-top: 120px;
+}
+
+.fff i:hover{
+    color: black;
+    background-color: yellow;
+}
+
+.ggg {
+    text-align: center;
+
+}
+
+/*what*/
+
+.navbarr {
+    background-color: white;
+    color: blue;
+    height: 12px;
+    padding: 25px 25px;
+    border: 1px solid rgb(172, 170, 170);
+    margin-top: -5px;
+}
+
+.navbarr a {
+    color: blue;
+    padding: 13px 30px;
+    text-decoration: none;
+}
+
+.lll {
+    float: left;
+    color: blue;
+}
+
+.navbarr ul li {
+    float: right;
+    list-style: none;
+}
+
+.container {
+    max-width: 1050px;
+    margin: auto;
+}
+
+.courser {
+    color: white;
+    background-color: blue;
+}
+
+.navbarr .courser {
+    color: white;
+}
+
+.navbarr ul li a:hover {
+    background-color: blue;
+    color: white;
+}
+
+.hhh {
+    font-size: 40px;
+    color: blue;
+    margin-top: 50px;
+}
+
+.jjj {
+    max-width: 1000px;
+    margin: auto;
+}
+
+.kkk {
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.nnn {
+    color: blue;
+}
+
+/*main*/
+
+.rot {
+    background-color: white;
+    height: 400px;
+    padding-top: 30px;
+    max-width: 1100px;
+    margin: auto;
+}
+
+.which {
+    width: 40%;
+    float: left;
+    padding: 50px;
+    background-color: white;
+    color: black;
+    height: 50px;
+}
+
+.nice {
+    width: 40%;
+    float: left;
+    padding: 50px;
+    background-color: white;
+    color: black;
+}
+
+.ooo {
+    font-size: 25px;
+    margin-left: 45px;
+    margin-top: -32px;
+    color: blue;
+}
+
+.kic {
+    font-size: 13px;
+    margin-left: 45px;
+    font-size: 15px;
+}
+
+.mmm {
+    color: blue;
+}
+
+.ler {
+    background-image: url(img/infinite-loop-02-mobile.jpg);
+    height: 641px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.mnn {
+    padding-top: 100px;
+}
+
+.ypu {
+    font-size: 45px;
+    color: white;
+    text-align: center;
+}
+
+.upy {
+    font-size: 17px;
+    color: white;
+    text-align: center;
+}
+
+.srs {
+    width: 24%;
+    float: left;
+    padding: 50px;
+}
+
+.grss-frin {
+
+    color: white;
+}
+
+#features {
+    max-width: 1080px;
+    margin: auto;
+}
+
+.ppp {
+    border-radius: 50%;
+    margin-left: 45px;
+}
+
+.pppp {
+    font-size: 20px;
+    margin-top: 25px;
+}
+
+.nol {
+    font-size: 14px;
+    margin-left: 55px;
+
+}
+
+.oio {
+    font-size: 45px;
+    color: white;
+    margin-left: 600px;
+}
+
+.ooi {
+    font-size: 45px;
+    color: rgb(163, 158, 158);
+    margin-left: 640px;
+    margin-top: -51px;
+}
+
+.ioi {
+    font-size: 45px;
+    margin-left: 680px;
+    color: rgb(177, 170, 170);
+    margin-top: -51px;
+}
+
+.ker {
+    margin-top: 369px;
+    text-align: center;
+}
+
+/*gallery*/
+
+.dtor {
+    font-size: 40px;
+    color: blue;
+    margin-top: 50px;
+}
+
+.like {
+    font-size: 15px;
+    color: #444;
+}
+
+.love {
+    text-align: center;
+
+}
+
+.rsr {
+
+    float: left;
+    padding: 0px;
+}
+
+.ppppp {
+    height: 350px;
+    padding-left: 30px;
+    width: 220px;
+}
+
+#featuress {
+    max-width: 1250px;
+    margin: auto;
+    margin-top: 70px;
+}
+
+.dgh {
+    background-image: url(img/infinite-loop-03.jpg);
+    height: 641px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.rotd {
+    font-size: 40px;
+    color: white;
+    margin-top: 50px;
+}
+
+.ekil {
+    font-size: 21px;
+    color: white;
+}
+
+.evol {
+    text-align: center;
+    padding-top: 60px;
+}
+
+.left {
+    height: 300px;
+    width: 50%;
+    padding-left: 310px;
+}
+
+.right {
+    height: 300px;
+    width: 50%;
+    margin-left: 50%;
+    margin-top: -300px;
+}
+
+.lkj {
+    color: white;
+    background: transparent;
+    border-radius: 4px;
+    height: 35px;
+    width: 300px;
+    border: 1px solid white;
+    font-size: 15px;
+}
+
+.dfg {
+    background: transparent;
+    width: 300px;
+    height: 150px;
+    border: 1px solid white;
+    font-size: 15px;
+}
+
+.vnn {
+    height: 30px;
+    width: 180px;
+    background-color: rgb(56, 56, 206);
+    border: none;
+}
+
+.vnn:hover{
+color: white;
+background-color:red;
+}
+.icon {
+    font-size: 20px;
+    margin-left: 60px;
+    margin-top: -25px;
+    color: white;
+}
+
+.coin {
+    color: white;
+}
+
+.coinn {
+    color: blue;
+}
+
+.iconn {
+    color: blue;
+    font-size: 20px;
+    margin-left: 60px;
+    margin-top: -25px;
+}
+
+.sok {
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+}
+::placeholder{
+    color: white;
+    padding-left: 20px;
+}
+
+.dfg::placeholder{
+    padding-top: 5px;
+    color: white;
+}
+
+.kjhg{
+    color: white;
+    background-color:rgb(56, 56, 206) ;
+    text-decoration: none;
+ margin-left: 95px;
+padding: 10px 30px;
+}
+
+.kjhg:hover{
+color: chocolate;
+background-color:chartreuse ;
+}
+.nice a{
+    height: 50px;
+}
+
+.jkgh{
+    color: white;
+    background-color:rgb(56, 56, 206) ;
+    text-decoration: none;
+ margin-left: 400px;
+padding: 10px 30px;
+}
+
+.jkgh:hover{
+    color: chocolate;
+background-color:chartreuse ;
+}
+
+i:hover{
+    color: yellow;
+}
+
+.instagramga{
+    position: relative;
+    font-size: 22px;
+    color: white;
+    left: 200px;
+    top:-25px;
+    background-color: rgb(111, 0, 255);
+    display: inline-block;
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: 600;
+}
+
+.instagramga:hover{
+    color: red;
+    background-color: white;
+}
+
+.instagramga:active{
+    background-color: black;
+    color: white;
+}
